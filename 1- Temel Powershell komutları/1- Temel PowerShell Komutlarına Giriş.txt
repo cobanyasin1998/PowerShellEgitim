@@ -1,0 +1,14 @@
+Get-Item C:\users --klasöre ait bilgi verir
+Get-Process --GörevYöneticisi gibi
++
+
+
+/*8-=:öç8m nbc1xzé   435nb6ö7
+,0
+Get-Process -Name "chrome" --chrome u filtreler
+:öçczX                           
+Get-Service --servisleri hizmetleri gösterir
+Get-Service -DisplayName "Windows Update"
+
+Get-Content "DosyaYolu"
+Get-Content "DosyaYolu" -TotalCount 5

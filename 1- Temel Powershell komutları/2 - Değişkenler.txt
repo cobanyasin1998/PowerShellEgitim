@@ -1,0 +1,9 @@
+$name = "Yasin"
+$sname = "Çoban"
+$dogumTarihi = 1998
+
+Write-Host "Kişi Bilgileri"
+Write-Host "----------------------"
+Write-Host "Adı           : $name"
+Write-Host "Soyadı        : $sname"
+Write-Host "Doğum Tarihi  : $dogumTarihi"

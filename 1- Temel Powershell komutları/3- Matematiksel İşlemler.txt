@@ -1,0 +1,5 @@
+$number1 =15
+$number2 = 30
+Write-Host ($number1 + $number2)
+$toplam = $number1 + $number2
+Write-Host "Ýki sayýnýn toplamý" $toplam

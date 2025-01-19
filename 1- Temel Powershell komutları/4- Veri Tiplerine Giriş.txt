@@ -1,0 +1,17 @@
+# String Tanýmlama
+$isim = "yasin"
+$mesaj = "Merhaba, $isim!"
+Write-Host $mesaj
+
+#Int tanýmlama
+$sayi = 15
+
+#Dizi tanýmlama
+$rakamlar = @(0,1,2,3,4,5,6,7,8,9)
+$rakamlarinIlkHanesi = $sayilar[0]
+Write-Host $rakamlarinIlkHanesi
+
+foreach ($eleman in $rakamlar)
+{
+    Write-Host $eleman
+}
